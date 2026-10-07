@@ -1,4 +1,4 @@
-**Analysis for dual patch clamp ephys data **
+Analysis for dual patch clamp ephys data
 --------
 
 **Requirements**
