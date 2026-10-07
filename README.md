@@ -1,4 +1,4 @@
-**Analysis code for ephys data **
+**Analysis for dual patch clamp ephys data **
 --------
 
 **Requirements**
