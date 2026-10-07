@@ -1,5 +1,6 @@
 Analysis for dual patch clamp ephys data
 --------
+Analysis for dual whole cell patch clamp data with user input to detect spikes, IPSPs, and bursts and generate relevant statistics in .mat, .xls data outputs and .svg figures. Spikes and IPSPs can also be passed through the coincidence detector for z-scored coincidence values.
 
 **Requirements**
 - MATLAB R2020b or later
